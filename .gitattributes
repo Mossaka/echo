@@ -13,3 +13,5 @@
 *.js    text eol=lf
 *.json  text eol=lf
 LICENSE text eol=lf
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
